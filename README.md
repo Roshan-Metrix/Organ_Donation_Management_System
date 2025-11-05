@@ -1,4 +1,4 @@
-# 🫀 OrganEase - Organ Donation Management System
+# 🫀 Organ Donation Management System
 
 OrganEase is a full-stack web application designed to streamline the communication between hospitals and transplant centers for organ procurement and request management. It offers a simple, secure, and responsive interface for managing organ availability and matching critical patient needs.
 
