@@ -91,7 +91,7 @@ JWT_SECRET=your_jwt_secret
  Admin panel for analytics
 
  Deployment via Render / Vercel
-
+```
  🤝 Contributing
 Pull requests are welcome. For major changes, open an issue first to discuss what you’d like to change.
 
@@ -103,5 +103,6 @@ Roshan Patel
 
 
 ---
+
 
 Let me know if you want this customized for **deployment links**, **badges**, or if you’d like to add **project goals** or **API documentation**!
