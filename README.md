@@ -96,11 +96,10 @@ JWT_SECRET=your_jwt_secret
 Pull requests are welcome. For major changes, open an issue first to discuss what you’d like to change.
 
 📄 License
-MIT License © [Your Name]
+[MIT License](license.txt)
 
 👤 Author
-Vishal Sain
-🔗 LinkedIn • GitHub
+Roshan Patel
 
 
 ---
