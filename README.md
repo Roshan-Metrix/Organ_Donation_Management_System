@@ -48,7 +48,7 @@ OrganEase is a full-stack web application designed to streamline the communicati
 
 ## 🧩 Folder Structure
 
-OrganEase/
+OrganDonation/
 ├── client/ # React frontend
 ├── server/ # Node + Express backend
 ├── README.md
